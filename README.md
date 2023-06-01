@@ -1,2 +1,3 @@
-# AIGC-Prompt-Engineering-Course-Open-Source-Learning-Community
-AIGC博客派，竟然是个免费学AIGC提示工程全品类课程的宝库。
+# AIGC博客派，竟然是个免费学AIGC提示工程全品类课程的宝库。
+
+AIGC博客派——一个专注于AIGC全品类课程的开源学习社区。AIGC博客派携手元壤教育打造包罗万象的AI全品类免费课程，从ChatGPT提示工程到AIGC模型训练课程，应有尽有。我们的目标是，无需花费，人人都能学习AI，使用AI，应用AI。
